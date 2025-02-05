@@ -7,5 +7,5 @@ This repository will hold my assignments
 ## My Interests
 I like playing video games and sometimes watching anime.
 ## Websites I recommend
-	- [Steam](https://store.steampowered.com/) - You can't beat Steam in regards to purchasing and organizing games.
-	- [Crunchyroll](https://www.crunchyroll.com/) - You can watch anime here I guess.
+[Steam](https://store.steampowered.com/) - You can't beat Steam in regards to purchasing and organizing games.
+[Crunchyroll](https://www.crunchyroll.com/) - You can watch anime here I guess.
